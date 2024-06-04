@@ -1,4 +1,4 @@
-# weatherMonitoringSystem
+# Weather Monitoring System
  
 In this project, we have proposed an IOT and cloud based Weather Monitoring Sys-
 tem. The aim of weather monitoring system is to detect, record and display weather
